@@ -10,7 +10,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7",
-        "yansongda/pay": "^1.0"
+        "uchanges/express": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
