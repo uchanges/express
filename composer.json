@@ -1,6 +1,6 @@
 {
     "name": "uchanges/express",
-    "description": "支持快递鸟、快递100的快递查询SDK",
+    "description": "支持快递鸟、快递100的快递查询",
     "license": "MIT",
     "authors": [
         {
